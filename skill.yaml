@@ -1,0 +1,5 @@
+name: "cooking_animation_skill"
+title: "Cooking Animation Skill"
+description: "Makes Anime cooking ASMR short films, 8 scenes x 10 seconds in 9:16, from a recipe and a character sheet through image prompts, video prompts, poster and SEO, with a Google Flow fallback when Muse video is unavailable."
+category: "Work and knowledge"
+include_in_prompt: true
